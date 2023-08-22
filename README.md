@@ -11,3 +11,7 @@
 
 ### Languages & Tools
 [![Generic badge](https://img.shields.io/badge/Python-3.11-<COLOR>.svg)](https://shields.io/)
+
+[![Generic badge](https://img.shields.io/badge/C++-23-<COLOR>.svg)](https://shields.io/)
+
+[![Generic badge](https://img.shields.io/badge/Java-20.0.2-<COLOR>.svg)](https://shields.io/)
