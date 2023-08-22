@@ -10,4 +10,4 @@
 - 😄 Pronouns: He/Him
 
 ### Languages & Tools
-[![Generic badge](https://img.shields.io/badge/<Python>-<3.11>-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Python-3.11-<COLOR>.svg)](https://shields.io/)
