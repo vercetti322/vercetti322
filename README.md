@@ -3,10 +3,11 @@
 
 - 🔭 I’m currently working on Python Development
 - 🌱 I’m currently learning NLP models using NLTK package
-- 💬 Reach out to to me in case of any help/suggestion!
+- 💬 Reach out to me in case of any help/suggestion!
 - 📫 How to reach me:
-      - [Gmail](vercettitommy322@gmail.com)
-      - [Linkedin](https://www.linkedin.com/in/jatinjindal322/)
+    1. [Gmail](mailto:vercettitommy322@gmail.com)
+    2. [Linkedin](https://www.linkedin.com/in/jatinjindal322/)
+
 - 😄 Pronouns: He/Him
 
 ### Languages & Tools
