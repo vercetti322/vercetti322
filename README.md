@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Comppiler developemnt and Vue stack
-- 🌱 I’m currently learning geospatial ML models & Go
+- 🔭 I’m currently working on Compiler developemnt...
 - 💬 Reach out to me in case of any help/suggestion!
 - 📫 How to reach me:
     1. [Gmail](mailto:vercettitommy322@gmail.com)
