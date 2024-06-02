@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Compiler developemnt...
+- 🔭 I’m currently working on frontend web design
 - 💬 Reach out to me in case of any help/suggestion!
 - 📫 How to reach me:
     1. [Gmail](mailto:vercettitommy322@gmail.com)
