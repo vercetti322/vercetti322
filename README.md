@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on frontend web design
+- 🔭 I’m currently working on frontend (Basics) and Backend (in-depth).
 - 💬 Reach out to me in case of any help/suggestion!
 - 📫 How to reach me:
     1. [Gmail](mailto:vercettitommy322@gmail.com)
