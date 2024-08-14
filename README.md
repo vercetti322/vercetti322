@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# I am Jatin 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vercetti322)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on frontend (Svelte) and Backend (Springboot).
 - 💬 Reach out to me in case of any help/suggestion!
