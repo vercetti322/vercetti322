@@ -15,7 +15,7 @@
   
   🌱 I'm currently learning about REST API's, Spring Security & Svelte.js
 
-  💭 Ask me about JS, Svelte, SpringBoot, etc. 
+  💭 Ask me about TS, React, SpringBoot, etc. 
 </div>
 
 <div align="center"> 
@@ -32,6 +32,6 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,svelte,git,maven,c,cpp" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,bitbucket,java,postgres,spring,postman,docker,cmake" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,react,git,maven,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,typescript,bitbucket,java,postgres,spring,postman,docker" /><br>
 </div>
