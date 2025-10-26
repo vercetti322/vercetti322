@@ -4,11 +4,10 @@
 
 <div align="center">
   
-  🔭 I'm currently working on Spring applications.
+  🔭 I'm currently working on Spring Boot applications.
   
-  🌱 I'm currently learning about REST API's, Spring Security & Svelte.js
-
-  💭 Ask me about TS, React, SpringBoot, etc. 
+  🌱 I'm currently learning about REST API's, Spring Security & React.js
+  
 </div>
 
 <div align="center"> 
