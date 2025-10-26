@@ -23,10 +23,9 @@
 ---
 
 ## 🌱 Currently Exploring  
-- Advanced **Full-Stack Development**  
-- **Cloud automation** and **self-healing systems**  
-- Building scalable, **resilient application infrastructures**
-
+- Working on scalable API load tester called JScaler.
+- Trying to understand Modern Java & Spring Boot in-depth.
+  
 ---
 
 ⭐ *"Building systems that fix themselves before anyone notices something went wrong!"*
