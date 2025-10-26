@@ -1,29 +1,32 @@
-<h3 align="center">A Software Engineer exploring Full-Stack Development</h3>
+## 💼 About Me  
 
-<br/>
+<div align="left">
+
+**Software Engineer 1** at **Synchrony**, part of the **EIS Organisation**, working on the Presto Health Monitoring team. **Presto** is an intelligent app health monitoring platform designed to enhance operational resiliency and system stability across Synchrony’s business systems.  
+
+- Fine-grained anomaly detection across datacenters.  
+- Accurate remediation plans to failover, restart & scale instances. 
+- Automated corrective actions without user intervention  
+- Adoption: 99.93% across 1300+ applications hosted on PCF  
+
+</div>
+
+---
+
+## ⚒️ Languages • Frameworks • Tools  
 
 <div align="center">
-  
-  🔭 I'm currently working on Spring Boot applications.
-  
-  🌱 I'm currently learning about REST API's, Spring Security & React.js
-  
+    <img src="https://skillicons.dev/icons?i=html,css,react,typescript,java,spring,python,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=mysql,maven,git,jenkins,postman,docker" /><br>
 </div>
 
-<div align="center"> 
-  <a href="mailto:vercettitommy322@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=blue" />
-  </a>
-  <a href="https://www.linkedin.com/in/jatinjindal322/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+---
 
-<hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,react,git,maven,c,cpp" />
-    <img src="https://skillicons.dev/icons?i=python,typescript,bitbucket,java,postgres,spring,postman,docker" /><br>
-</div>
+## 🌱 Currently Exploring  
+- Advanced **Full-Stack Development**  
+- **Cloud automation** and **self-healing systems**  
+- Building scalable, **resilient application infrastructures**
+
+---
+
+⭐ *"Building systems that fix themselves before anyone notices something went wrong!"*
