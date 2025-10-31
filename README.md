@@ -24,7 +24,7 @@
 
 ## 🌱 Currently Exploring  
 - Working on scalable API load tester called JScaler.
-- Trying to understand Modern Java & Spring Boot in-depth.
+- Trying to deep dive into Elixir language.
   
 ---
 
