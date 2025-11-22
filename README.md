@@ -23,8 +23,8 @@
 ---
 
 ## 🌱 Currently Exploring  
-- Working on scalable API load tester called JScaler.
-- Trying to deep dive into Elixir language.
+- Working on creating a multiplayer game from scratch in Java.
+- Desigining & Implementing Datacenter Monitoring in my Team.
   
 ---
 
