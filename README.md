@@ -2,7 +2,7 @@
 
 <div align="left">
 
-**Software Engineer 1** at **Synchrony**, part of the **EIS Organisation**, working on the Presto Health Monitoring team. **Presto** is an intelligent app health monitoring platform designed to enhance operational resiliency and system stability across Synchrony’s business systems.  
+I'm a **Software Engineer 1** at **Synchrony**, part of the **EIS Organisation**, working on the Presto Health Monitoring team. **Presto** is an intelligent app health monitoring platform designed to enhance operational resiliency and system stability across Synchrony’s business systems.  
 
 - Fine-grained anomaly detection across datacenters.  
 - Accurate remediation plans to failover, restart & scale instances. 
