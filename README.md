@@ -23,7 +23,7 @@ I'm a **Software Engineer 1** at **Synchrony**, part of the **EIS Organisation**
 ---
 
 ## 🌱 Currently Exploring  
-- Working on creating a multiplayer game from scratch in Java.
+- Working on creating a Physics Engine to solve Newtonain Mechanics.
 - Desigining & Implementing Datacenter Monitoring in my Team.
   
 ---
