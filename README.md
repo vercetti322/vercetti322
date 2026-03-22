@@ -23,5 +23,5 @@ I'm a **Software Engineer 1** at **Synchrony**, part of the **EIS Organisation**
 ---
 
 ## 🌱 Currently Exploring  
-- Working on creating a custom S3 middleware to turn your google drive into a basic S3 storage.
+- Working on creating a MySQL Local Client with AI integration for analytics on structured data.
 - Desigining & Implementing rule-based trend system for monitoring all SYF Applications.
