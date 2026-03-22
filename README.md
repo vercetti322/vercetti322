@@ -16,7 +16,7 @@ I'm a **Software Engineer 1** at **Synchrony**, part of the **EIS Organisation**
 ## ⚒️ Languages • Frameworks • Tools  
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,react,typescript,java,spring,python,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,java,spring,python,c,cpp" />
     <img src="https://skillicons.dev/icons?i=mysql,maven,git,jenkins,postman,docker" /><br>
 </div>
 
