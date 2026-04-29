@@ -23,5 +23,5 @@ I'm a **Software Engineer 1** at **Synchrony**, part of the **EIS Organisation**
 ---
 
 ## 🌱 Currently Exploring  
-- Working on creating a MySQL Local Client with AI integration for analytics on structured data.
+- Working on creating an IntelliJ Plugin to help users connect to Cassandra cluster and perform queries.
 - Desigining & Implementing rule-based trend system for monitoring all SYF Applications.
