@@ -4,10 +4,7 @@
 
 I'm a **Software Engineer 1** at **Synchrony**, part of the **EIS Organisation**, working on the Presto Health Monitoring team. **Presto** is an intelligent app health monitoring platform designed to enhance operational resiliency and system stability across Synchrony’s business systems.  
 
-- Fine-grained anomaly detection across datacenters.  
-- Accurate remediation plans to failover, restart & scale instances. 
-- Automated corrective actions without user intervention  
-- Adoption: 99.93% across 1300+ applications hosted on PCF  
+Also, I am part of the AI Enablement committee with Engineering Leadership to advance AI Adoption across the different teams. It involves creating Local Agentic Harnesses, Observability Tools and Cloud Agents.
 
 </div>
 
@@ -23,5 +20,5 @@ I'm a **Software Engineer 1** at **Synchrony**, part of the **EIS Organisation**
 ---
 
 ## 🌱 Currently Exploring  
-- Working on creating an IntelliJ Plugin to help users connect to Cassandra cluster and perform queries.
-- Desigining & Implementing rule-based trend system for monitoring all SYF Applications.
+- Desigining & Implementing a Copilot-based Agentic Harness for 3 teams in CloudNative for automating the entire SDLC.
+- Brainstorming on getting telemetery data per employee for understanding the adoption of agents, skills and MCP's in Visual Studio Code.
